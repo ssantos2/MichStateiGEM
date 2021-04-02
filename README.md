@@ -1,5 +1,5 @@
 # MichStateiGEM
-Michigan State University iGEM Computation and Data Collection Base
+$Michigan State University iGEM Computation and Data Collection Base$
 Welcome!
 The Michigan State University iGEM team has identified a key issue of synthetic biology preservation and protection of genetic engineering: Biocontainment
 In an effort to create a multi-layered system of biocontainment strategies, the team has compiled well-known and novel methods of a full-range objectives to tackle horizontal gene transfer. 
